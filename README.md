@@ -31,10 +31,7 @@ AI 융합학부 (Dept. of AI Convergence)
 <br>
 AI 전공 (Major in AI)
 
-<br/>
-
 ---
-<br/>
 
 ## 💼 Projects
 
@@ -46,10 +43,7 @@ AI 전공 (Major in AI)
 - **Taste Trip** - 재료 기반 이색 해외 레시피 추천 앱 [🔗GitHub](https://github.com/amycms/Tastetrip)
 - **ssgc** - 대학교 강의 시간표 추천 앱 [🔗GitHub](https://github.com/amycms/ssgc)
 
-<br/>
-
 ---
-<br/>
 
 ## 📄 Publications
 
@@ -57,10 +51,7 @@ AI 전공 (Major in AI)
 > KIISE Korea Computer Congress 2025 (KCC 2025), pp. 2105–2107
 > [🔗Paper](https://drive.google.com/file/d/1xLmii0rHMxKl9XijAUx8BxWK54Muccz1/view?usp=sharing) | [🔗Code](https://github.com/amycms/AD_SSL)
 
-<br/>
-
 ---
-<br/>
 
 ## 🛠️ Tech Stacks
 
