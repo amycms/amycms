@@ -36,9 +36,10 @@ AI 전공 (Major in AI)
 
 ### 🚀 Current Project
 - **JOYNER** - 일정을 조율해주는 개인 AI 비서 앱 [🔗GitHub](https://github.com/AI-Joy-Assistant)
+- **PG_GraphSSL** – Phenotype–Genotype 그래프 관계 모델링과 자가지도학습을 결합한 퇴행성 뇌질환 패턴 인식 프레임워크 연구
 
 ### 📂 Past Projects
-- **Alzheimer_SSL** - 자가지도학습을 통한 기계학습-기반 알츠하이머 조기 진단 프레임워크 성능 향상 연구 [🔗GitHub](https://github.com/amycms/AD_SSL)
+- **AD_SSL** - 자가지도학습을 통한 기계학습-기반 알츠하이머 조기 진단 프레임워크 성능 향상 연구 [🔗GitHub](https://github.com/amycms/AD_SSL)
 - **Taste Trip** - 재료 기반 이색 해외 레시피 추천 앱 [🔗GitHub](https://github.com/amycms/Tastetrip)
 - **ssgc** - 대학교 강의 시간표 추천 앱 [🔗GitHub](https://github.com/amycms/ssgc)
 
