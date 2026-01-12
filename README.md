@@ -2,19 +2,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=1c114d&center=true&vCenter=true&width=600&lines=Hello,+I'm+Minseo!+%F0%9F%91%8B;AI+Researcher+%26+Developer;Welcome+to+My+Git-Space." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=1c114d&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Minseo!+%F0%9F%91%8B;AI+Developer;Welcome+to+My+Git-Space." alt="Typing SVG" />
+</a>
 </div>
 
 <div align="center">
-  <!--<p>AI 연구와 서비스 개발에 모두 열정을 가지고 있는 조민서 입니다.</p>-->
+  <p><b>AI 모델을 실제 서비스로 구현하는 AI 개발자 조민서입니다.</b></p>
 </div>
-
 <br/>
 
-## 🎯 Focus
-**Deep Learning & Vision • Medical AI • App Development**
+## ✨ Focus
+**AI Service Development • Medical AI • Deep Learning & Vision**
 
 <br/>
 
