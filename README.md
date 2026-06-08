@@ -22,7 +22,7 @@ AI 모델을 단순히 구현하는 것보다, 실제 환경에서도 안정적�
 의료 AI 연구에서는 자가지도학습, 그래프 신경망, 딥러닝 기반 영상 분석을 활용해 질병 진단 및 병변 변화 예측 문제를 다루고 있으며, 서비스 개발에서는 AI Agent 기반 일정 조율 서비스 JOYNER를 개발하고 출시했습니다.
 
 - 🎓 성신여자대학교 AI융합학부 AI학과 수료 (2026.08 졸업예정)
-- 🔬 [성신여자대학교 PRISM LAB](https://sswu-prism-lab.github.io/) 학부생 연구원 (2025.03 - 진행 중)
+- 🔬 [성신여자대학교 PRISM LAB](https://sswu-prism-lab.github.io/) 학부생 연구원
 - 🤖 JOYNER — AI 기반 일정 자동 조율 서비스 iOS 앱 출시 및 운영중
 - 🧠 Medical AI, Deep Learning, Computer Vision 연구 수행
 - 📄 KCC 2025 논문 게재 및 발표
@@ -89,7 +89,7 @@ AI Agent 간 자율 협상 구조를 통해 다수 참여자의 일정을 자동
 ---
 
 ### 🧠 CDR-Net — 시계열 신경교종 병변 변화 예측 연구  
-> `2025.09 ~ 진행 중`
+> `2025.09 ~ 2026.05`
 
 치료 후 신경교종 환자의 시계열 MRI 데이터를 활용해 미래 병변 변화를 예측하는 의료 AI 연구입니다.  
 단일 시점의 multi-modal MRI 입력만으로 Edema와 Active Tumor의 증가/감소 변화를 voxel-wise로 예측하고, 이를 기반으로 후속 시점의 병변 마스크를 재구성하는 프레임워크를 설계했습니다.
@@ -169,7 +169,7 @@ SimCLR 기반 feature extractor를 설계하고, 추출된 representation을 SVC
 
 | Period | Activity | Role |
 |------|----------|------|
-| 2025.03 ~ 진행 중 | PRISM LAB | Medical AI 연구, 딥러닝 모델 실험 및 논문 작성 |
+| 2025.03 ~ 2026.05 | PRISM LAB | Medical AI 연구, 딥러닝 모델 실험 및 논문 작성 |
 | 2021.03 ~ 2022.12 | Chemicom  | 코딩 기초 스터디 및 동아리 활동 참여 |
 
 ---
